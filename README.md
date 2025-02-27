@@ -28,7 +28,7 @@ The datasets used in this research are not included in this repository due to th
 
 | Dataset | Description | Link |
 | :-- | :-- | :-- |
-| Mouse single cells from lung | This dataset consists of three mouse individuals with data taken from lung tissue. The data are taken from the Mouse Cell Atlas (Han et al., 2018). | [Link]({https://figshare.com/s/865e694ad06d5857db4b) |
+| Mouse single cells from lung | This dataset consists of three mouse individuals with data taken from lung tissue. The data are taken from the Mouse Cell Atlas (Han et al., 2018). | [Link](https://figshare.com/s/865e694ad06d5857db4b) |
 | Human single cells from lung | This dataset consists of two human individuals with data taken from lung tissue. The data are taken from the Human Cell Landscape (Han et al., 2020) | [Link](https://figshare.com/articles/dataset/HCL_DGE_Data/7235471?file=23043329) |
 | Human single cells from pancreas | This dataset consists of eight human individuals with data taken from pancreas tissue sequenced through different technologies (Lab, 2019 | [Link](https://github.com/satijalab/seurat-data) |
 | A549 | This dataset consists of a single mouse individual with data taken from kidney tissue (Cao et al., 2018) | [Link](https://github.com/sqjin/scAI/tree/master/data) |
