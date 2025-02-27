@@ -8,6 +8,12 @@ This repository contains the code and documentation for our research paper Subty
 - **preprocessing**: Contains scripts for data preparation and cleaning.
 - **analysis**: Contains code for the main analysis and results generation.
 
+## Authors
+
+- **Theodoulos Rodosthenous** - Imperial College London
+- **Vahid Shahrezaei** - Imperial College London
+- **Marina Evangelou** - Imperial College London
+
 ## Abstract
 
 Single-cell RNA sequencing (scRNA-seq) has rapidly become an essential method in modern biology, as it allows global characterisation of transcriptomics in individual cells from different tissues, or organisms. scRNA-seq data are collected from a single individual organism and they are composed as mRNA count matrices with rows representing the cells and columns the genes. New technologies further allow multi-omics data to be obtained on the same set of single cells. 
