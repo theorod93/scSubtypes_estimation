@@ -10,9 +10,7 @@ This repository contains the code and documentation for our research paper Subty
 
 ## Authors
 
-- **Theodoulos Rodosthenous** - Imperial College London
-- **Vahid Shahrezaei** - Imperial College London
-- **Marina Evangelou** - Imperial College London
+**Theodoulos Rodosthenous**, **Vahid Shahrezaei**, **Marina Evangelou** - Imperial College London
 
 ## Abstract
 
